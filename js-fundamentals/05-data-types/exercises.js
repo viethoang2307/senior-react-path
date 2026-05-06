@@ -1,0 +1,1 @@
+// Module 05: Exercises\nconsole.log('Module 05 exercises - coming soon');\n

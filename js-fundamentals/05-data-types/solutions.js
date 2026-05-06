@@ -1,0 +1,1 @@
+// Module 05: Solutions\nconsole.log('Module 05 solutions - coming soon');\n
