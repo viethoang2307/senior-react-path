@@ -21,10 +21,10 @@ console.table([
 ]);
 
 // 4. Measure performance
-console.time("loop");
-let sum = 0;
-for (let i = 0; i < 1000000; i++) sum += i;
-console.timeEnd("loop");
+console.time('lop')
+let a = 0
+for(let i = 0; i < 10000; i++){ a++};
+console.timeEnd('lop')
 
 // 5. Strict mode
 // x = 5; // ❌ Lỗi: x is not defined
